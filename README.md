@@ -3,12 +3,13 @@
 O projeto é uma aplicação responsiva  de tarefas  com criação, exclusão e conclusão de itens.
 
 ## Regras básicas
-1. Você deverá subir este desafio em um repositório público no seu github pessoal e compartilhar o link do projeto no github pages.
-2. Caso não consiga concluir todos os passos, não se preocupe, nos envie mesmo assim o que você fez para que possamos avaliar;
-3. O projeto deverá ser criado especificamente com:  
+1. Você deverá subir este desafio em um repositório público no seu github pessoal e compartilhar o link.
+2. Descrever os comando necessário para executar a aplicação.
+3. Caso não consiga concluir todos os passos, não se preocupe, nos envie mesmo assim o que você fez para que possamos avaliar;
+4. O projeto deverá ser criado especificamente com:  
     1. Framework Angular v18 ou superior;
     2. Framework Bootstrap CSS v5.3.x ou superior.
-4. Seu foco deve ser criar uma aplicação responsiva  de lista de tarefas  com criação, exclusão e conclusão de itens. 
+5. Seu foco deve ser criar uma aplicação responsiva  de lista de tarefas  com criação, exclusão e conclusão de itens. 
 
 ## O Desafio
 Seu desafio será a criação dos componentes com o máximo possível de fidelidade ao que está sendo solicitado pelo time de UI.
